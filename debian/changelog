@@ -1,5 +1,5 @@
-gxde-disable-security-boot (1.0.0) UNRELEASED; urgency=medium
+gxde-disable-security-boot (1.0.1) UNRELEASED; urgency=medium
 
-  * Initial release. 
+  * 新增 console=tty
 
- -- gfdgd_xi <3025613752@qq.com>  Sat, 18 Jul 2026 07:48:29 +0800
+ -- gfdgd_xi <3025613752@qq.com>  Sat, 18 Jul 2026 08:03:11 +0800
