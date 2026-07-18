@@ -1,1 +1,1 @@
-10_gxde-disable-security-boot /etc/default/grub.d/
+10_gxde-disable-security-boot.cfg /etc/default/grub.d/
